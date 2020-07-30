@@ -1,3 +1,10 @@
+"""
+  piece.py              :   This file contains the class templates for the various pieces in the game.
+  File created by       :   Shashank Goyal
+  Last commit done by   :   Shashank Goyal
+  Last commit date      :   30th July
+"""
+
 # import floor function to select nearest lower integer
 from math import floor
 # import respective object type for type hint specification

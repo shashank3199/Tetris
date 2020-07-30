@@ -1,4 +1,4 @@
-![Version Tag](https://img.shields.io/badge/Version-1.1.0-blue.svg)
+![Version Tag](https://img.shields.io/badge/Version-1.1.1-blue.svg)
 ![Python Tag](https://img.shields.io/badge/Python-3-green.svg)
 
 # Tetris
@@ -12,7 +12,7 @@ The files in the repository are :
 The Description file containing details about the repository. The file that you looking at right now.
 
 #### \_\_init__.py
-The \_\_init__.py file is to make Python treat directories containing the file as packages
+The \_\_init__.py file is to make Python treat directories containing the file as packages.
 
 #### global_variables.py
 This file contains the global variables that are used in the game such as `SCREEN_WIDTH, SCREEN_HEIGHT,` etc.
@@ -53,6 +53,7 @@ This directory contains the images for the game icon and README File.
 
 ## Bibliography
 -  <b>Reference:</b> https://www.youtube.com/watch?v=zfvxp7PgQ6c&t=5137s by [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ).
+-  <b>Scoring Chart:</b> The scoring is from the Tetris (BPS) version of this game. You can read about it [here](https://tetris.wiki/Tetris_(BPS)#Scoring).
 - <b>Game Icon:</b> Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [flaticons.com](https://www.flaticon.com/).
 
 [![Developers Tag]( https://img.shields.io/badge/Developer-shashank3199-red.svg )]( https://github.com/shashank3199 )
