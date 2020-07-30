@@ -1,3 +1,10 @@
+"""
+  main.py               :   This file is contains the game and its working.
+  File created by       :   Shashank Goyal
+  Last commit done by   :   Shashank Goyal
+  Last commit date      :   30th July
+"""
+
 # import pygame module
 import pygame
 

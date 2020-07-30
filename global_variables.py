@@ -1,3 +1,12 @@
+"""
+  global_variables.py   :   This file contains the global variables that are used in the game.
+  File created by       :   Shashank Goyal
+  Last commit done by   :   Shashank Goyal
+  Last commit date      :   30th July
+  Last commit note		:	Added Scoring Vector according to the scoring mentioned at -
+  							https://tetris.wiki/Tetris_(BPS)#Scoring
+"""
+
 # width of game screen
 SCREEN_WIDTH = 800
 # height of game screen
@@ -25,3 +34,6 @@ RIGHT_KEY = 1
 ROTATE_KEY = 2
 DOWN_KEY = 3
 PULL_DOWN_KEY = 4
+
+# scores corresponding to the number of lines cleared in a move
+SCORING_VECTOR = [0, 40, 100, 300, 1200]
